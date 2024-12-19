@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "text": "ciao"
+  },
+  {
+    "role": "assistant",
+    "text": "Ciao! Come posso aiutarti oggi?"
+  }
+]

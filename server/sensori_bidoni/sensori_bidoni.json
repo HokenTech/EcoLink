@@ -1,0 +1,285 @@
+[
+    {
+        "luogo": "Roma",
+        "coord": "[41.8953203, 12.4829321]",
+        "temperatura": 32,
+        "riempimento": 45
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8961203, 12.4815321]",
+        "temperatura": 48,
+        "riempimento": 65
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8947203, 12.4809321]",
+        "temperatura": 19,
+        "riempimento": 78
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8925203, 12.4821321]",
+        "temperatura": 67,
+        "riempimento": 12
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8959203, 12.4843321]",
+        "temperatura": 55,
+        "riempimento": 33
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8933203, 12.4830321]",
+        "temperatura": 44,
+        "riempimento": 89
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8919203, 12.4825321]",
+        "temperatura": 28,
+        "riempimento": 72
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8941203, 12.4812321]",
+        "temperatura": 38,
+        "riempimento": 64
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8965203, 12.4854321]",
+        "temperatura": 16,
+        "riempimento": 49
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8937203, 12.4869321]",
+        "temperatura": 12,
+        "riempimento": 95
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8923203, 12.4804321]",
+        "temperatura": 64,
+        "riempimento": 21
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8957203, 12.4849321]",
+        "temperatura": 5,
+        "riempimento": 38
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8963203, 12.4821321]",
+        "temperatura": 50,
+        "riempimento": 87
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8945203, 12.4836321]",
+        "temperatura": 21,
+        "riempimento": 34
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8931203, 12.4862321]",
+        "temperatura": 39,
+        "riempimento": 62
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8915203, 12.4828321]",
+        "temperatura": 66,
+        "riempimento": 9
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8967203, 12.4813321]",
+        "temperatura": 15,
+        "riempimento": 77
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8939203, 12.4808321]",
+        "temperatura": 23,
+        "riempimento": 54
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8927203, 12.4841321]",
+        "temperatura": 59,
+        "riempimento": 18
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8949203, 12.4825321]",
+        "temperatura": 10,
+        "riempimento": 82
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8951203, 12.4819321]",
+        "temperatura": 43,
+        "riempimento": 96
+    },
+    {
+        "luogo": "Roma",
+        "coord": "[41.8962203, 12.4866321]",
+        "temperatura": 68,
+        "riempimento": 7
+    },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8515203, 14.2681201]",
+            "temperatura": 25,
+            "riempimento": 70
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8506203, 14.2675201]",
+            "temperatura": 38,
+            "riempimento": 50
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8524203, 14.2693201]",
+            "temperatura": 45,
+            "riempimento": 85
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8533203, 14.2664201]",
+            "temperatura": 18,
+            "riempimento": 40
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8542203, 14.2689201]",
+            "temperatura": 62,
+            "riempimento": 15
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8508203, 14.2701201]",
+            "temperatura": 30,
+            "riempimento": 95
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8499203, 14.2658201]",
+            "temperatura": 50,
+            "riempimento": 60
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8510203, 14.2673201]",
+            "temperatura": 12,
+            "riempimento": 35
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8503203, 14.2686201]",
+            "temperatura": 70,
+            "riempimento": 20
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8520203, 14.2692201]",
+            "temperatura": 55,
+            "riempimento": 75
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8540203, 14.2705201]",
+            "temperatura": 40,
+            "riempimento": 50
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8531203, 14.2669201]",
+            "temperatura": 23,
+            "riempimento": 80
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8512203, 14.2681201]",
+            "temperatura": 37,
+            "riempimento": 65
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8505203, 14.2677201]",
+            "temperatura": 49,
+            "riempimento": 10
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8525203, 14.2696201]",
+            "temperatura": 27,
+            "riempimento": 55
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8545203, 14.2709201]",
+            "temperatura": 65,
+            "riempimento": 30
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8536203, 14.2661201]",
+            "temperatura": 10,
+            "riempimento": 45
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8517203, 14.2685201]",
+            "temperatura": 55,
+            "riempimento": 25
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8509203, 14.2673201]",
+            "temperatura": 33,
+            "riempimento": 90
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8529203, 14.2698201]",
+            "temperatura": 48,
+            "riempimento": 70
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8549203, 14.2713201]",
+            "temperatura": 15,
+            "riempimento": 60
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8530203, 14.2665201]",
+            "temperatura": 62,
+            "riempimento": 50
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8511203, 14.2689201]",
+            "temperatura": 45,
+            "riempimento": 35
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8504203, 14.2671201]",
+            "temperatura": 50,
+            "riempimento": 85
+        },
+        {
+            "luogo": "Napoli",
+            "coord": "[40.8524203, 14.2691201]",
+            "temperatura": 20,
+            "riempimento": 20
+        }
+    
+  ]
